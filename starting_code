@@ -11,3 +11,4 @@ client.on('message', msg => {
 });
 
 client.login('token');
+//replace token with the token from the discord.com/developers, discussed further on in the instructions.
